@@ -21,5 +21,5 @@ We were able to complete this project that could successfully (and hopefully) be
 - Video Editing
 - 3D space visualization
 
-## What's next for Who's Coffin?
+## What's next for "Who's Coffin?"
 We hope to improve our AR filter and build more advanced AR concepts that could help in our day to day activities.
